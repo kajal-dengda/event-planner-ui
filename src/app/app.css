@@ -1,0 +1,18 @@
+.navbar {
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.navbar-brand:hover {
+  color: #fff !important;
+}
+
+.nav-link:hover {
+  color: #f8f9fa !important;
+}
+
+@media (max-width: 991px) {
+  .navbar-nav {
+    text-align: center;
+    padding-top: 1rem;
+  }
+}
